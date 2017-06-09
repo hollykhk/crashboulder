@@ -1,6 +1,8 @@
-# crashboulder.com
+# Crashboulder
 
-CrashBoulder is 100% open source. Please clone as much as you like.
+CrashBoulder is 100% open source. Please clone as much time as you like.
+URL: crashboulder.com
 
-Client-side: AngularJS - app.js
-Server-side: NodeJS - index.html
+            | TYLE OF JS |  FILE
+Client-side | AngularJS  |  app.js
+Server-side | NodeJS     |  index.html
