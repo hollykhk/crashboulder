@@ -1,7 +1,9 @@
 # Crashboulder
 
-__CrashBoulder is 100% open source. Please clone as much time as you like.__
-__URL: crashboulder.com__
+__CrashBoulder is 100% open source. Please clone as much time as you like.
+
+
+__URL: crashboulder.com
 
 
 
